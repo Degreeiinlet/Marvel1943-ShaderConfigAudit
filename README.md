@@ -160,3 +160,4 @@ No game binaries or assets are included in this repository.
 - [Stalker2-ShaderCacheGuard](../Stalker2-ShaderCacheGuard) — S.T.A.L.K.E.R. 2 UE5 shader compilation & `C:` space check
 
 *Independent community project. Not affiliated with Skydance New Media, Marvel Entertainment, Valve, or Steam. All trademarks belong to their respective owners.*
+ 
